@@ -1,5 +1,9 @@
 # 業績互動分析儀表板（公開模擬資料）
 
+## 線上互動展示
+
+[點此開啟業績互動分析儀表板](https://sales-dashboard-demo-occwwx2xvfz3ofm4cuinba.streamlit.app/)
+
 第三階段作品 3-1。以 [2-2 業績資料報表自動化](https://github.com/ringchang168/sales-report-automation-demo) 的公開模擬銷售資料，建立獨立的 Streamlit 互動儀表板；**不修改原作品**。資料來源是該專案的 `data/sales.csv`，本專案保留一份相同的資料供本機執行。
 
 ## 可以看什麼
